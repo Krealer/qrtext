@@ -20,5 +20,5 @@ Enter any text or URL and generate a scannable QR code that can be opened instan
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/qrtext.git
+git clone https://github.com/krealer/qrtext.git
 cd qrtext
